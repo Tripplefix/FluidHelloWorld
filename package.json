@@ -25,6 +25,8 @@
 		"test:jest": "jest"
 	},
 	"dependencies": {
+		"@fluidframework/azure-client": "^2.2.0",
+		"@fluidframework/test-client-utils": "^1.4.0",
 		"@fluidframework/tinylicious-client": "^2.2.0",
 		"fluid-framework": "^2.2.0"
 	},
